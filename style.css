@@ -1,7 +1,11 @@
+body {
+background-color: gray;
+}
+
 table {
 width:100%;
 }
 
 tr:nth-child(even) {
-background-color: whitesmoke;
+background-color: lightgrey;
 }
